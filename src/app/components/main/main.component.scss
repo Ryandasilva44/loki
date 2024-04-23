@@ -116,6 +116,8 @@ div {
   color: $color;
   background: $bgcolor;
   margin-left: 10rem;
+  pointer-events: none;
+  opacity: 0.5;
 }
 
 .assistir__trailer {
