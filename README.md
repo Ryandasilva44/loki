@@ -45,4 +45,12 @@ passo 1: "ng g c components/body"(exemplo de como fazer um component)
 passo 1: "colocasse no imports do component que irar colocar outros components"
 passo 2: " imports: [NgOptimizedImage],"
 passo 3: "para colocar no seu projeto nao usa o "src" usasse "Ngsrc" se nao aparecer é so colocar 
-altura e largura"
+altura e largura".
+
+assim que seu projeto tiver terminando os passos sao esses:
+
+passo 1: git init 
+passo 2: git add . (adiciona todas as dependencias ou se tiver alteraçoes em seuncodigo)
+passo 3: git commit -m "mas um commit"
+passo 4: git remote add origin (aqui colocar o seu github do seu projeto)
+passo 5: git push -u origin master (aqui vai subir para o github o meu é master o meu brach)
